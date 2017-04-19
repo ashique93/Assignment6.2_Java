@@ -16,3 +16,15 @@ public class Thread2 {
 	                
 	       }
 	}
+
+
+
+
+
+Output using Thread class
+number is not prime
+Output using Runnable interface
+11 Number is prime
+13 Number is prime
+17 Number is prime
+19 Number is prime
