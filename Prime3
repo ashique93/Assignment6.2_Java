@@ -1,0 +1,18 @@
+package myPack;
+
+public class Thread2 {
+	
+	
+	    public static void main(String args[])// main method
+	    {
+	       
+	    new NewThread1();// Creates NewThread1 object
+	                System.out.println("Output using Thread class");
+	                
+	                new Prime(); //// Creates Prime object
+	                
+	                System.out.println("Output using Runnable interface");
+	                
+	                
+	       }
+	}
